@@ -112,6 +112,7 @@ public class Main {
 
     public static void task8() {
         System.out.println("Задача 8");
+        int forNewCommit = 0; //для нового коммита
         int yearCommet = 0;
         int yearNow = 2023;
 
